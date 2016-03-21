@@ -1,0 +1,24 @@
+{
+  "name": "JS-API-SearchRepos",
+  "description": "",
+  "main": "",
+  "authors": [
+    "alissa paluska"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.1",
+    "bootstrap": "^3.3.6",
+    "moment": "^2.12.0"
+  }
+}
